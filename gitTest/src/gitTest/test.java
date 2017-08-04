@@ -1,5 +1,7 @@
 package gitTest;
 
 public class test {
-	String gg;
+	public static void main(String[] args) {
+		System.out.println("안녕하세요");
+	}
 }
